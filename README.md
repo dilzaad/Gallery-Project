@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Gallery-Project
+🖼️ **Beautiful Gallery – React &amp; Tailwind CSS**  A responsive image gallery built with React, Tailwind CSS, and Axios. It fetches images from the Picsum Photos API and features modern image cards, hover animations, and Previous/Next pagination for smooth navigation between pages.  **Technologies:** React.js, Tailwind CSS, Axios, REST API
+>>>>>>> e1bb62d16ad9fd670515aa64ad4979f1f7a3f68f
